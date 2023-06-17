@@ -11,7 +11,7 @@ public class DigitsSumCalculator {
             number /= 10;
         }
 
-        System.out.println("The sum of digits of the number is: " + sum);
+        System.out.println(sum);
 
     }
 }
